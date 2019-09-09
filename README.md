@@ -51,3 +51,4 @@ console.log(`(person1._proto_===person1._proto_)`)
 
 ![Function_Prototype_Object](https://user-images.githubusercontent.com/48932121/64508171-0f436500-d320-11e9-9eb6-3c8569a92aae.png)
 
+![Prototype_equal_dundeeproto](https://user-images.githubusercontent.com/48932121/64508283-6a755780-d320-11e9-89ea-258ef61956fb.png)
