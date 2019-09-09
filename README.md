@@ -36,6 +36,7 @@ __proto__ property: We will discuss this while explaining inheritance in JavaScr
 
 ![Function_Prototype_Object](https://user-images.githubusercontent.com/48932121/64508171-0f436500-d320-11e9-9eb6-3c8569a92aae.png)
 
+Above console output shows that even person2’s dunder proto property is equal to the Human.prototype property and they point to the same object.
 
 function Human(firstName, lastName) {
 	this.firstName = firstName,
@@ -53,8 +54,6 @@ console.log(person1.prototype)
 
 console.log(`($(Human.prototype===person1===_proto_))`)
 console.log(`(person1._proto_===person1._proto_)`)
-
-```
 
 
 ![Prototype_equal_dundeeproto](https://user-images.githubusercontent.com/48932121/64508283-6a755780-d320-11e9-89ea-258ef61956fb.png)
