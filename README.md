@@ -47,7 +47,7 @@ console.log(`($(Human.prototype===person1===_proto_))`)
 console.log(`(person1._proto_===person1._proto_)`)
 
 ```
-
+![Function_Prototype_rs](https://user-images.githubusercontent.com/48932121/64507898-3fd6cf00-d31f-11e9-9549-b97a25404259.png)
 
 
 
