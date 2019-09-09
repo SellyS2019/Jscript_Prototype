@@ -52,8 +52,8 @@ console.log (Human.prototype)
 console.log (person1._proto_)
 console.log(person1.prototype)
 
-console.log(`($(Human.prototype===person1===_proto_))`)
-console.log(`(person1._proto_===person1._proto_)`)
+isTrue?(`($(Human.prototype===person1===_proto_))`)
+isTrue?(`(person1._proto_===person1._proto_)`)
 
 
 ![Prototype_equal_dundeeproto](https://user-images.githubusercontent.com/48932121/64508283-6a755780-d320-11e9-89ea-258ef61956fb.png)
